@@ -4,9 +4,9 @@ LifeFlow Fitness is a fullstack fitness application for workout planning, workou
 
 ## Repositories
 
-- Frontend
-- Backend
-- Deployment
+- [Frontend](https://github.com/Fielifia/lifeflow-frontend)
+- [Backend](https://github.com/Fielifia/lifeflow-backend)
+- [Deployment](https://github.com/Fielifia/lifeflow-deploy)
 
 ## Documentation
 
